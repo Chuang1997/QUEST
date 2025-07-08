@@ -1,6 +1,6 @@
 # QUEST
 QUEST: Efficient Extreme Multi-Label Text Classification with Large Language Models on Commodity Hardware
-**Paper:** [ACL Anthology 2024](https://aclanthology.org/2024.findings-emnlp.226.pdf)  
+**Paper:** [QUEST](https://aclanthology.org/2024.findings-emnlp.226.pdf)  
 
 ## Abstract  
 Extreme multi-label text classification (EMTC) involves predicting multiple labels from a vast pool of candidates based on a user's textual query. While traditional BERT-based methods have shown limited success, large language models (LLMs) have brought new possibilities. It is promising to leverage their remarkable comprehension ability to understand textual queries. However, implementing LLMs is non-trivial for two main reasons:  
