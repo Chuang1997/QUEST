@@ -20,6 +20,8 @@ Enables EMTC on commodity hardware like a single NVIDIA RTX 3090 GPU (24GB memor
 
 This repository provides a basic implementation of QUEST for extreme multi-label text classification. The core functionality is contained in `QUEST.py`, which implements our quantized prompt tuning approach.
 
+[![Framework Preview](https://img.shields.io/badge/Download-Framework_Diagram-blue)](./framework.pdf)
+
 ### Key Components
 
 - **Model Architecture**: 
